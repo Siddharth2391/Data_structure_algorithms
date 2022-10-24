@@ -1,4 +1,4 @@
-#Algorithms
+# Algorithms
 
 1. Pattern searching
 2. Divide and conqueror
