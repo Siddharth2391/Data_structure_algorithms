@@ -13,3 +13,5 @@ Space Complexity - Space taken by our code to solve particulat problem.
 3) Big O Notation O (Worst case)
 
 We also consider worst case for calculating our time complexity.
+
+## Space Complexity ##
