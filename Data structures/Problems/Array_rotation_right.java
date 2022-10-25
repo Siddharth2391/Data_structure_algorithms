@@ -14,4 +14,3 @@ class Array_rotation_right {
         }
     }
 }
-
