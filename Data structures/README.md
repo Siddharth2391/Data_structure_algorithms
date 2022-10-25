@@ -4,6 +4,8 @@ Time Complexity - Time taken by our code to solve particular problem.
 
 Space Complexity - Space taken by our code to solve particulat problem.
 
+![alt text](https://miro.medium.com/max/720/1*5ZLci3SuR0zM_QlZOADv8Q.jpeg)
+
 ## Time Complexity ##
 
 1) Omega Notation Ω (Best case)
