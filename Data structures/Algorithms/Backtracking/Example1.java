@@ -1,4 +1,4 @@
-import java.util.*;
+//Generate all the binary strings of N bits
 
 class Example1{
     int a[];
