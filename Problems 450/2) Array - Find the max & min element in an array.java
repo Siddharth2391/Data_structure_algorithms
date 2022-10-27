@@ -7,3 +7,6 @@ class Array {
         System.out.println("min-"+a[0]+" max-"+a[a.length-1]);
     }
 }
+
+
+//Approach 2
