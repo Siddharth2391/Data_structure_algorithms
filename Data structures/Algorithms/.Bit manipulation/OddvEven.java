@@ -4,16 +4,16 @@ import java.util.*;
 
 class OddvEven {
     
-    public static int check(int n){
-        return (n&1);
-    }
-    
-    public static void main(String[] args) {
-        int n=10;
-        if(check(n)==1){
+    public static void check(int n){
+        if((n&1) == 1){
             System.out.println("Odd");
         }else{
             System.out.println("Even");
         }
+    }
+    
+    public static void main(String[] args) {
+        check(10);
+        check(11);
     }
 }
