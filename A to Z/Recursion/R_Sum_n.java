@@ -8,8 +8,17 @@ public class R_Sum_n {
         sum(n - 1, s + n);
     }
 
+    // Functional Recursion sum of n numbers
+    public static int sum1(int n) {
+        if (n < 0) {
+            return 0;
+        }
+        return n + sum1(n - 1);
+    }
+
     public static void main(String[] args) {
-        int n = 15;
-        sum(n, 0);
+        int n = 115;
+        sum(n, 0); // parameterized
+        sum1(5); //
     }
 }
