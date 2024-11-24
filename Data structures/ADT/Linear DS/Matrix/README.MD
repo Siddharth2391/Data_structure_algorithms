@@ -1,5 +1,7 @@
 # Matrix
 
+A matrix is a two-dimensional array that consists of rows and columns. It is an arrangement of elements in horizontal or vertical lines of entries.
+
 > [!NOTE]
 > Matrix Adjancent Side Condition
 >
