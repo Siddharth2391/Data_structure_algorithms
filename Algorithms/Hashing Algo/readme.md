@@ -1,5 +1,4 @@
 # Hashing Algorithm
 
-[!IMPORTANT]
-
+> [!IMPORTANT]
 > Hashing is nothing but prestored / fetching
