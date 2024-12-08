@@ -1,0 +1,3 @@
+# Hashing Algorithm
+
+[!IMPORTANT]
